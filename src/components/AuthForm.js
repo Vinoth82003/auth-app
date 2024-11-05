@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useRouter } from "next/router";
-import "../styles/AuthForm.css";
+// import "../styles/AuthForm.css";
 import Alert from "./Alert";
 
 const AuthForm = ({ isSignup }) => {

@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/AuthForm.css";
+// import "../styles/AuthForm.css";
 
 const Alert = ({ message, onClose }) => {
   if (!message) return null;
