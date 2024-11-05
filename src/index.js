@@ -1,5 +1,5 @@
 import Layout from "./components/Layout";
-// import "../styles/AuthForm.css";
+import "./styles/AuthForm.css";
 
 function MyApp({ Component, pageProps }) {
   return (
