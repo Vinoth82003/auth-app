@@ -1,5 +1,6 @@
 import Link from "next/link";
 // import "../styles/AuthForm.css";
+import "../styles/AuthForm.css";
 
 export default function Home() {
   return (
